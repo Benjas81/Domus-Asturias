@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17873" appversion="6.1.2" start="node1">
+  <panorama id="node1">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" levelingroll="0" leveltilesize="510" width="1500">
+      <level height="1500" width="1500" predecode="0" preload="0"/>
+      <level height="750" width="750" predecode="0" preload="0"/>
+      <level height="375" width="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="233">
+      <start pan="-99.56" projection="4" tilt="-0.36" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata author="" copyright="" source="" description="" info="" customnodeid="" title="Ingreso" tags="360|Ingreso|iNTERIOR" nodeid="node1" comment="" latitude="" datetime="22/10/2026 09:05 p. m." longitude="">
+      <mapcoords x_floorplan_percent="80.9935" mapid="FloorPlan01" y="-1.59576" y_floorplan_percent="96.8333" x="1.02997"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" background="1" height="20" textcolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" width="180" border="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-102.02" target="" description="" title="Motivo de ingreso" skinid="ht_node" tilt="-3" url="{node2}" id="Motivo de ingreso"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" zoomfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="1"/>
+    <control simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="1" invertwheel="0" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" levelingroll="0" leveltilesize="510" width="1500">
+      <level height="1500" width="1500" predecode="0" preload="0"/>
+      <level height="750" width="750" predecode="0" preload="0"/>
+      <level height="375" width="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="214">
+      <start pan="-100.77" projection="4" tilt="-1.71" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata author="" copyright="" source="" description="" info="" customnodeid="" title="Motivo de ingreso" tags="360|MotivodeIngreso|iNTERIOR" nodeid="node2" comment="" latitude="" datetime="22/10/2026 08:58 p. m." longitude="">
+      <mapcoords x_floorplan_percent="79.0497" mapid="FloorPlan01" y="-1.53809" y_floorplan_percent="93.3333" x="1.00525"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" background="1" height="20" textcolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" width="180" border="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-266.62" target="" description="" title="Ingreso" skinid="ht_node" tilt="-5.74" url="{node1}" id="Ingreso"/>
+      <hotspot pan="-123.88" target="" description="" title="Casa Club Acceso" skinid="ht_node" tilt="-2.43" url="{node3}" id="Casa CLub Ingreso"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" zoomfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="1"/>
+    <control simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="1" invertwheel="0" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" levelingroll="0" leveltilesize="510" width="1500">
+      <level height="1500" width="1500" predecode="0" preload="0"/>
+      <level height="750" width="750" predecode="0" preload="0"/>
+      <level height="375" width="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-90.45" projection="4" tilt="-4.68" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata author="" copyright="" source="" description="" info="" customnodeid="" title="Casa Club Acceso" tags="360|CasaClubAcceso|iNTERIOR" nodeid="node3" comment="" latitude="" datetime="23/10/2026 08:02 p. m." longitude="">
+      <mapcoords x_floorplan_percent="86.3931" mapid="FloorPlan01" y="-0.97229" y_floorplan_percent="59" x="1.09863"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" background="1" height="20" textcolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" width="180" border="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-156.98" target="" description="" title="Casa Club interior" skinid="ht_node" tilt="-12.21" url="{node5}" id="Casa Club interior"/>
+      <hotspot pan="-84.02" target="" description="" title="Casa Club sombrillas" skinid="ht_node" tilt="-7.35" url="{node4}" id="Casa Club Sombrillas"/>
+      <hotspot pan="-273.15" target="" description="" title="Ingreso" skinid="ht_node" tilt="-10.69" url="{node1}" id="Motivo de ingreso"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" zoomfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="1"/>
+    <control simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="1" invertwheel="0" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" levelingroll="0" leveltilesize="510" width="1500">
+      <level height="1500" width="1500" predecode="0" preload="0"/>
+      <level height="750" width="750" predecode="0" preload="0"/>
+      <level height="375" width="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="77.98" projection="4" tilt="0.97" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata author="" copyright="" source="" description="" info="" customnodeid="" title="Casa Club sombrillas" tags="360|CasaClubSombrillas|iNTERIOR" nodeid="node4" comment="" latitude="" datetime="23/10/2026 08:08 p. m." longitude="">
+      <mapcoords x_floorplan_percent="89.4168" mapid="FloorPlan01" y="-0.975037" y_floorplan_percent="59.1667" x="1.13708"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" background="1" height="20" textcolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" width="180" border="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-214.13" target="" description="" title="Casa Club interior" skinid="ht_node" tilt="-10.12" url="{node5}" id="Casa Club interior"/>
+      <hotspot pan="-260.61" target="" description="" title="Ingreso" skinid="ht_node" tilt="-5.46" url="{node1}" id="Motivo de ingreso"/>
+      <hotspot pan="-275.35" target="" description="" title="Casa Club Acceso" skinid="ht_node" tilt="-7.84" url="{node3}" id="Casa CLub Ingreso"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" zoomfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="1"/>
+    <control simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="1" invertwheel="0" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" levelingroll="0" leveltilesize="510" width="1500">
+      <level height="1500" width="1500" predecode="0" preload="0"/>
+      <level height="750" width="750" predecode="0" preload="0"/>
+      <level height="375" width="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="81.84" projection="4" tilt="0.95" fov="70"/>
+      <flyin pan="77.65" projection="4" tilt="1.33" fov="70"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata author="" copyright="" source="" description="" info="" customnodeid="" title="Casa Club interior" tags="360|CasaClubInterior|iNTERIOR" nodeid="node5" comment="" latitude="" datetime="23/10/2026 07:55 p. m." longitude="">
+      <mapcoords x_floorplan_percent="87.473" mapid="FloorPlan01" y="-0.98877" y_floorplan_percent="60" x="1.11237"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" background="1" height="20" textcolor="0x000000" textalpha="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" width="180" border="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-307.58" target="" description="" title="Ingreso" skinid="ht_node" tilt="-9.26" url="{node1}" id="Motivo de ingreso"/>
+      <hotspot pan="-328.62" target="" description="" title="Casa Club Acceso" skinid="ht_node" tilt="-9.76" url="{node3}" id="Casa CLub Ingreso"/>
+      <hotspot pan="-52.47" target="" description="" title="Casa Club sombrillas" skinid="ht_node" tilt="-8.95" url="{node4}" id="Casa Club Sombrillas"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" zoomfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="1"/>
+    <control simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="1" invertwheel="0" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" copyright="" source="" description="" info="" customnodeid="" title="" tags="" nodeid="master" comment="" latitude="" datetime="" longitude=""/>
+  </masternode>
+  <map zoomlevels="3" height="600" type="file" bgcolor="rgba(255, 255, 255, 0)" title="" tileformat="png" floorplannorth="0" width="463" transparent="1" id="FloorPlan01"/>
+</tour>
